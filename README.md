@@ -9,4 +9,4 @@ USE AT YOUR OWN RISK !!
 
 After long research in the db structure, I cannot find the file size. The workaround used is the last characters of AgLibraryFile.importHash seems to be the file size. 
 
-All the is in the code as comments.
+All the rest is in the code as comments.
