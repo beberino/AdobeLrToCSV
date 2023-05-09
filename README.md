@@ -1,5 +1,5 @@
 # AdobeLrToCSV
-Simple and Short Python Code to export your Adobe LightRoom to CSV and play with the data
+Simple and short Python Code to export your Adobe LightRoom to CSV and play with the data
 I am not a developer and wanted to focus and share the key things to retrieve and massage data from the Adobe LightRoom catalogue.
 
 Testing has been done on LightRoom Classic 12.3 Catalogue.
